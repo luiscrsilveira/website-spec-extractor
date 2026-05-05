@@ -76,3 +76,7 @@ pip install requests beautifulsoup4 cssutils
 ## Claude Code skill
 
 This repo ships as a [Claude Code](https://claude.ai/code) skill (`SKILL.md`). When installed, Claude automatically uses this pipeline when asked to "reverse engineer a site", "extract the design from X", or "clone the spec" for a URL.
+
+## License
+
+[MIT](LICENSE)

@@ -1,5 +1,7 @@
 # Website Spec Extractor
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Reverse-engineer a live website into a redesign-ready `spec.md` — sitemap, design system, component catalog, and page content — using only Python requests (no browser automation).
 
 ## What it produces
